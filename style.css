@@ -59,3 +59,15 @@ footer{
     color: #F75270;
     text-shadow: 1px 0 #404B69;
 }
+
+@media (max-width: 768px) {
+  .drum {
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+    border: 5px solid #404B69;
+  }
+  h1{
+    font-size: 2rem;
+  }
+}
